@@ -7,7 +7,5 @@ class Book
     @title
   end
 
-  def author=(author)
-    attr_accessor :author
-  end
+attr_accessor :author
 end
